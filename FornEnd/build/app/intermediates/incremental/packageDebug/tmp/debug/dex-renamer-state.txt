@@ -1,0 +1,4 @@
+#Tue Nov 10 22:13:32 ICT 2020
+base.0=E\:\\nam4\\QLCHMT\\QLCHMT\\qlchmt\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
